@@ -1,0 +1,19 @@
+---
+layout: default
+title: Current Studies
+has_children: false
+has_toc: false
+nav_order: 2
+---
+
+# Current Studies in the Lab
+
+Below is a list of the current studies in the lab:
+
+| Study Title |    Lead Name(s)    |               Link                |
+| ------------- | --------------- | --------------------------------- |
+| Invetigating Mood and Cognition in Patients with Multiple Sclerosis   | Erica Baller | [linktostudy](linktostudy){:target="_blank"} |
+
+---------------------------------------------------------------------------------
+
+
