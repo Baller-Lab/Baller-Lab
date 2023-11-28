@@ -20,10 +20,10 @@ One of the MS specialists or their CRCs may reach out to you and provide a list 
 
 ## Reaching out to a Participant
 
-1. Updating the Saturn Participant Recruitment Spreadsheet
+**Updating the Saturn Participant Recruitment Spreadsheet**
 All potential participants, along with basic contact and medical information, are recorded in an excel spreadsheet stored in Saturn. The spreadsheet filepath is: `Coordinators`-->`Protocols`-->`BALLER LAB`-->`MS_and_Depression_853883`-->`Participant_Recruitment`-->`MS_Dep_Call_Log.xls`. All potential participants are stored in the 'list of potential participants', and can be added to the 'Completed Visits' tab, once they have finished participating in the study. Once you have confirmed that a participant is eligible and entered the requisite information into the spreadsheet, you may reach out to them with a phone call and, if they don't answer, a text. Please be aware that you can include NO PHI in texts and voicemails to participants. You may discuss medically-specific details with a participant in the context of a recruitment call to answer questions after they have confirmed their identity. 
 
-2. Initial Recruitment
+**Initial Recruitment**
 The IRB-approved scripts for initial recruitment and following emails are located in `MS_and_Depression_853883`-->`SOPs_and_Participant_Documents`-->`Recruitment_Docs` and below:
 
 
@@ -35,7 +35,7 @@ If you’re interested in participating, we would ask you to complete a one-time
 
 I’m happy to answer any questions you have right now! If you don’t currently have any questions, but you think you may be interested in participating, I can send you our consent form to look over at your convenience. If at that point you have any questions or want clarification on anything, you can feel free to reach out to me whenever at this number. 
 
-2. Additional Information 
+**Additional Information** 
 If the participant is interested in participating but would like some additional information, you can send them an email using the following template:
 
 ### Additional Information Email Script
@@ -54,7 +54,7 @@ Best,
 
 [Coordinator Name]
 
-3. Confirmation Texts and Email
+### Confirmation Texts and Email
 Make sure to send the participant a confirmation text regarding the time and location of their appointment one week, 48 hours, and 24 hours ahead of the scheduled study visit. You will also send an email 24-48 hours (depending on time of scheduled visit) to the participant with a link to the REDCap self report scales and details regarding either in-person meeting point (for in-person visits, typically the lobby of the Perelman Center for Advanced Medicine) or the zoom link for virtual visits. 
 
 ### Confirmation and with REDCap and Zoom Link Email Script
