@@ -39,5 +39,5 @@ Break
 16. Variable Short Line Orientation Test
 17. Visual Object Learning Test
 
-## Accessing the CNB
-You will need to complete a CNB training before you are able to access the administration site. 
+## Accessing and Administering the CNB
+You will need to complete a CNB training before you are able to access the administration site. This is currently organized by Tarlan Daryoush, and involves some readings, videos, and submitting a recording of you administering a CNB to a freind or colleague. Once you have login access, the test can be administered [here](https://webcnp.med.upenn.edu/). Make sure that you are provided with access to the battery 'msdep_k23_v1' and the sites 'MSDEP_PR' (for practicing) and 'MSDEP' (for administering the test to participants). Implement ProcTrack as you go through the CNB to log data quality and make any notes about deviations or technical difficulties throughout the battery administration. Technical difficulties encountered during administration can be reported in the slack channel 'cnb_issues_reports' to get real-time troubleshooting help. Anything not resolved should be logged in notes.

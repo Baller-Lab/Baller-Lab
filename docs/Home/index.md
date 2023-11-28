@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome
-has_children: true
+has_children: false
 has_toc: false
 nav_order: 1
 ---
