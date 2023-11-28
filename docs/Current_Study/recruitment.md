@@ -12,18 +12,18 @@ Study participants are recruited from the Penn MS Center, located on the second 
 
 ## Recruitment Practices
 
-1. Recruiting in the MS Clinic
+**Recruiting in the MS Clinic:**
 Many participants are recruited during appointments with their MS specialist in the PCAM Neurology Clinic. You can reach out to a provider, such as Dr. Schindler or Dr. Perrone, and ask whether it might be possible for you to shadow and/or recruit when they are seeing patients. We are particularly interested in younger patients with relatively recent diagnoses, and when the MS provider has a patient that they think would be a good fit, you will be invited into the clinic examination room to present the patient with a copy of the study consent form and a brief description of what the study involves. If they express interest, you can ask them if you may contact them via text in the coming days to schedule a study visit. 
 
-2. Referral from a MS Specialist/MS CRC
+**Referral from a MS Specialist/MS CRC:**
 One of the MS specialists or their CRCs may reach out to you and provide a list of patients that may be a good fit for the study. You should double-check the patient's eligibility in PennChart, and if they are a good fit you can reach out and invite them to participate.
 
 ## Reaching out to a Participant
 
-**Updating the Saturn Participant Recruitment Spreadsheet**
+**Updating the Saturn Participant Recruitment Spreadsheet:**
 All potential participants, along with basic contact and medical information, are recorded in an excel spreadsheet stored in Saturn. The spreadsheet filepath is: `Coordinators`-->`Protocols`-->`BALLER LAB`-->`MS_and_Depression_853883`-->`Participant_Recruitment`-->`MS_Dep_Call_Log.xls`. All potential participants are stored in the 'list of potential participants', and can be added to the 'Completed Visits' tab, once they have finished participating in the study. Once you have confirmed that a participant is eligible and entered the requisite information into the spreadsheet, you may reach out to them with a phone call and, if they don't answer, a text. Please be aware that you can include NO PHI in texts and voicemails to participants. You may discuss medically-specific details with a participant in the context of a recruitment call to answer questions after they have confirmed their identity. 
 
-**Initial Recruitment**
+**Initial Recruitment:**
 The IRB-approved scripts for initial recruitment and following emails are located in `MS_and_Depression_853883`-->`SOPs_and_Participant_Documents`-->`Recruitment_Docs` and below:
 
 
