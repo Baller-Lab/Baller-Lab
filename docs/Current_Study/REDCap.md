@@ -2,7 +2,7 @@
 layout: default
 title: REDCap
 parent: Current Studies
-nav_order: 4
+nav_order: 6
 has_toc: true
 ---
 
