@@ -10,9 +10,9 @@ nav_order: 2
 
 Below is a list of the current studies in the lab:
 
-| Study Title |    Lead Name(s)    |               Link                |
+| Study Title |    Lead Name(s)    |               CRC Name(s)                |
 | ------------- | --------------- | --------------------------------- |
-| Invetigating Mood and Cognition in Patients with Multiple Sclerosis   | Erica Baller | [linktostudy](linktostudy){:target="_blank"} |
+| Invetigating Mood and Cognition in Patients with Multiple Sclerosis   | Erica Baller | Lia Brodrick |
 
 ---------------------------------------------------------------------------------
 
