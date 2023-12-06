@@ -39,3 +39,6 @@ For establishing a new study, making budget changes, or updating C2 forms, be su
 
 ## Paying Participants 
 Your participant must sign a W9 form and C2 form before receiving payment. It is good practice to provide them with a ClinCard FAQ sheet as well and to explain how ClinCards work. These processes can be conducted virtually (through REDCap) or, for in-person visits, with physical forms. Please refer to Saturn BBL SOPs to stay on top of BBL protocols. 
+
+## ClinCard Reports
+You will also need to complete monthly ClinCard reports for the study. Information can be downloaded from the `Reports` tab on the greenphire website. Please refer to BBL Saturn SOPs to complete these correctly. You may reach out to the Business Administrator, John Hyon, or Sage Rush with additional questions.
