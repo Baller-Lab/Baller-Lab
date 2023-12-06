@@ -7,7 +7,7 @@ has_toc: true
 ---
 
 # Penn CRMS
-CRMS is the CLinical Research Management and Reporting System that internally tracks how many subjects have been enrolled in and completed the study. It is important to keep this record up-to-date, and patients should be linked to the study through their EPIC profile in the CRMS system once they consent to participating. More information on Penn CRMS can be found at [this website](https://www.med.upenn.edu/clinicalresearch/penncrms.html).
+CRMS is the Clinical Research Management and Reporting System that internally tracks how many subjects have been enrolled in and completed the study. It is important to keep this record up-to-date, and patients should be linked to the study through their EPIC profile in the CRMS system once they consent to participating. More information on Penn CRMS can be found at [this website](https://www.med.upenn.edu/clinicalresearch/penncrms.html).
 
 The CRMS portal can be accessed [here](https://pennctms.pmacs.upenn.edu/velos/jsp/ereslogin.jsp). To gain access, you will need to complete a one-time virtual synchronous training, which you can independently sign up for at this [link](https://www.myworkday.com/upenn/learning/course/9b2946e933d910019925e1be816b0000?type=9882927d138b100019b6a2df1a46018b). Please make sure to sign into your account at least once every six months, otherwise it will be automatically deactivated. Account reactivation, and other CRMS account issues, can be fixed by submitting a ticket through the CRMS system.
 
