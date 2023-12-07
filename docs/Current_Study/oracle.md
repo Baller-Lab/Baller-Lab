@@ -2,7 +2,7 @@
 layout: default
 title: Oracle
 parent: Current Studies
-nav_order: 8
+nav_order: 7
 has_toc: true
 ---
 
