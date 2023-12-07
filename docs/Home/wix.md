@@ -25,7 +25,7 @@ There are several pages in the website:
 
 The pages that will need to be most frequently updated are `News`, `Publications`, and `Home`. 
 
-### Updating `News`
+## Updating `News`
 The `News` tab should be kept as up-to-date as possible. Whenever Dr. Baller has a new paper published, gives an exciting talk, or recieves an award, the `News` page should be updated to reflect this accomplishment. Luckily, this page was created using a 'Repeater', which will allow you to add more identical items to the page very easily. You will click on one of the items through the editor, and select the button `Manage Items`. This will open a toolbar on the right. By clicking the three dots on the right you can duplicate any item to easily create a new news item and toggle the order.  Make sure to add a title, image, description, and to add a link to the button so that interested visitors can learn more. 
 
 ## Updating `Publications`
