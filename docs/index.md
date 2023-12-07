@@ -2,6 +2,13 @@
 title: Home
 layout: home
 ---
+# Welcome to the Baller Lab GitHub!
+This GitHub page is a guide for members of the Baller Lab, and will outline how to execute all necessary lab functions. The `Current Study` page offers detailed information about all components of MS/Depression study visits. There are also guides for navigating the many websites used by Penn researchers and basic information about updating the GitHub and lab webpage, hosted by WIX, under `Lab Basics`. 
+
+This page primarily offers useful information about `Just the Docs`, the template used to create this webpage. We hope you will find everything you're looking for as you browse!
+
+### Just the Docs
+This page was built using the `Just the Docs` template. To learn how to update and improve this site, please refer to the information below.
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 

@@ -7,3 +7,10 @@ nav_order: 1
 ---
 
 # Welcome to the Baller Lab
+
+## Meet the Team!
+
+| TEAM MEMBER | LAB ROLE |
+| ----------- | ----------- |
+| Principal Investigator | Prof. Erica Baller, MD, MS |
+| Clinical Research Coordiantor | Lia Brodrick |
